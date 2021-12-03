@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-def day2():
+def day1_part2():
     cnt = 0
     input = open('input.txt', 'r')
     input_list = []
@@ -22,4 +22,4 @@ def day2():
     print(cnt)
 
 if __name__ == '__main__':
-    day2()
+    day1_part2()
