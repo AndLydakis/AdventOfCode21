@@ -6,3 +6,4 @@ Challenges for Advent of Code 2021
 * [Day3](./Day3/description.md)
 * [Day4](./Day4/instructions.md)
 * [Day5](./Day5/instructions.md)
+* [Day6](./Day6/instructions.md)
